@@ -1,4 +1,4 @@
-# Case-Depression-Disorder-and-Its-Factors
+# Case Depression Disorder and Its Factors
 Depression Disorder and Its Factors
 
 This project explores depressive disorder as a multifactorial condition, influenced by a wide range of social, behavioral, and health-related factors. Using data from the NHANES (National Health and Nutrition Examination Survey) 2005–2006, the analysis aims to uncover insights about the U.S. adult population (18 years and older) experiencing depressive symptoms.
